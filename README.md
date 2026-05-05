@@ -15,6 +15,7 @@ Currently I lead global enablement at **FinThrive**, where I founded **FinThrive
 ## What I'm Working On
 
 - **FinThrive Academy** — Onboarding, product certification, and ongoing seller development across revenue teams
+- **Ecosystem Optimization** - Simplifying and aligning systems of truth, action, and record to enable seamless, one-touch workflows across the field tech stack
 - **MEDDPICC** - Launching MEDDPICC methodology, supported through an integrated tech stack, to enhance deal strength visibility and forecasting
 - **AI in Enablement** — Integrating AI-driven tools and automated workflows into our GTM learning ecosystem (40% reduction in content production time, sustained 97% engagement)
 - **Enablement Analytics** — Executive-level performance dashboards that link learning outcomes directly to revenue metrics and seller productivity
